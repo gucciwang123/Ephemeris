@@ -1,0 +1,6 @@
+[submodule "lib/OpenBLAS"]
+	path = lib/OpenBLAS
+	url = git@github.com:xianyi/OpenBLAS.git
+[submodule "lib/superlu"]
+	path = lib/superlu
+	url = git@github.com:xiaoyeli/superlu.git
